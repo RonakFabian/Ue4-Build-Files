@@ -2,4 +2,5 @@
 Faster header precompiling
 
  MinFilesUsingPrecompiledHeaderOverride = 1;
+ 
  bFasterWithoutUnity = true;
